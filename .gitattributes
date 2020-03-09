@@ -1,3 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.rb linguist-language=C#
+src/js/* linguist-vendored # exact, absolute path
+*/js/* linguist-vendored # wildcarded, absolute path with 2-dir levels
+**/js/* linguist-vendored # wildcarded, absolute path with n-dir levels
+src/css/* linguist-vendored # exact, absolute path
+*/css/* linguist-vendored # wildcarded, absolute path with 2-dir levels
+**/css/* linguist-vendored # wildcarded, absolute path with n-dir levels
