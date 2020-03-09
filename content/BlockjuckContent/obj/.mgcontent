@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Programming Assignments MonoGame/Programming Assignment 6/blackboard/Windows/content/BlockjuckContent/graphics/hitbutton.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Programming Assignments MonoGame/Programming Assignment 6/blackboard/Windows/content/BlockjuckContent/graphics/quitbutton.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Programming Assignments MonoGame/Programming Assignment 6/blackboard/Windows/content/BlockjuckContent/graphics/standbutton.png</File>
+  </SourceFiles>
+</SourceFileCollection>

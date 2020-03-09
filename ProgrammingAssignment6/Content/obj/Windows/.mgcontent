@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/fonts/Arial24.spritefont</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/clubs/Ace.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/clubs/Eight.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/clubs/Five.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/clubs/Four.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/clubs/Jack.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/clubs/King.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/clubs/Nine.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/clubs/Queen.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/clubs/Seven.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/clubs/Six.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/clubs/Ten.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/clubs/Three.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/clubs/Two.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/diamonds/Ace.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/diamonds/Eight.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/diamonds/Five.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/diamonds/Four.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/diamonds/Jack.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/diamonds/King.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/diamonds/Nine.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/diamonds/Queen.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/diamonds/Seven.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/diamonds/Six.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/diamonds/Ten.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/diamonds/Three.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/diamonds/Two.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/hearts/Ace.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/hearts/Eight.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/hearts/Five.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/hearts/Four.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/hearts/Jack.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/hearts/King.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/hearts/Nine.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/hearts/Queen.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/hearts/Seven.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/hearts/Six.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/hearts/Ten.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/hearts/Three.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/hearts/Two.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/spades/Ace.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/spades/Eight.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/spades/Five.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/spades/Four.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/spades/Jack.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/spades/King.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/spades/Nine.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/spades/Queen.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/spades/Seven.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/spades/Six.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/spades/Ten.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/spades/Three.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/spades/Two.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/Back.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/hitbutton.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/quitbutton.png</File>
+    <File>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/graphics/standbutton.png</File>
+  </SourceFiles>
+</SourceFileCollection>

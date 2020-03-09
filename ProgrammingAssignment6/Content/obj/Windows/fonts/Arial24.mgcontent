@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/fonts/Arial24.spritefont</SourceFile>
+  <SourceTime>2016-12-01T20:45:12-05:00</SourceTime>
+  <DestFile>C:/Users/costa/Documents/C# projects/course/week 9/ProgrammingAssignment6/ProgrammingAssignment6/Content/bin/Windows/fonts/Arial24.xnb</DestFile>
+  <DestTime>2016-12-02T15:58:03.7886045-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T02:36:08-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T02:36:08-04:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
